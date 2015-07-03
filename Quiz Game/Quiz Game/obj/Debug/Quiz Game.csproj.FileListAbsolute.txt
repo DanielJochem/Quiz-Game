@@ -1,0 +1,2 @@
+E:\Daniel's Uni\15T2\MDU112\MDU112 GitClone\Quiz Game\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe.config
+E:\Daniel's Uni\15T2\MDU112\MDU112 GitClone\Quiz Game\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csprojResolveAssemblyReference.cache
